@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 4.2)
 project(1_MiniDraw)
 file(GLOB source
   "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp"
